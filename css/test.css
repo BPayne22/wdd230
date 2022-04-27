@@ -6,6 +6,7 @@
 
 header {
     border: 1px solid #bbb;
+    border-radius: 8px;
     padding: 1rem;
     background-color: aquamarine;
     align-items: center;
@@ -23,7 +24,7 @@ h1 {
 
 img {
     margin: 1rem;
-    padding: 1rem;
+    padding: 5rem;
     box-shadow: 0 0 20px;
 }
 
@@ -39,6 +40,7 @@ h2 {
 
 footer {
     border: 1px solid #bbb;
+    border-radius: 8px;
     padding:1rem;
     background-color: aquamarine;
     align-items: center;
