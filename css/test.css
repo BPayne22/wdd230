@@ -11,10 +11,13 @@ header {
     align-items: center;
     box-shadow: 0 0 20px;
     justify-content: center;
+    margin: 1rem; 
+    margin-bottom: .5rem;
 }
 
 body {
     justify-content: center;
+    margin: 1rem;
 }
 
 h2 {
@@ -29,4 +32,6 @@ footer {
     align-items: center;
     box-shadow: 0 0 20px;
     justify-content: center;
+    margin: 1rem;
 }
+
