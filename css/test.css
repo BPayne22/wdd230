@@ -16,6 +16,17 @@ header {
     display: inline-flex;
 }
 
+h1 {
+    margin-right: 5rem;
+    margin-left: 2.5rem;
+}
+
+img {
+    margin: 1rem;
+    padding: 1rem;
+    box-shadow: 0 0 20px;
+}
+
 body {
     justify-content: center;
     margin: 1rem;
