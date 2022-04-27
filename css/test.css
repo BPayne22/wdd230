@@ -34,8 +34,10 @@ body {
 
 ul {
     margin: 1rem;
-    margin-left: 40px;
-    padding: 1rem;
+    margin-left: 45px;
+    padding: .5rem;
+    border-bottom: 1px solid gray;
+    width: 500px;
 }
 
 h2 {
