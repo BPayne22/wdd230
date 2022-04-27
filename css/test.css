@@ -23,7 +23,7 @@ h1 {
 }
 
 img {
-    padding: 5rem;
+    padding: .1rem;
     box-shadow: 0 0 20px;
 }
 
@@ -32,9 +32,17 @@ body {
     margin: 1rem;
 }
 
+ul {
+    margin: 1px;
+    margin-left: 4px;
+}
+
 h2 {
+    margin-left: 2.5rem;
     text-shadow: 0 0 20px;
     font-size: 28px;
+    width: 500px;
+    border-bottom: 1px solid gray;
 }
 
 footer {
