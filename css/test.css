@@ -34,7 +34,9 @@ body {
 
 ul {
     margin: 1px;
-    margin-left: 4px;
+    margin-left: 40px;
+    padding: 1rem;
+    display: list-item
 }
 
 h2 {
