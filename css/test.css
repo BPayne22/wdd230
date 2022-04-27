@@ -59,3 +59,6 @@ footer {
     display: inline-flex;
 }
 
+em {
+    font-size: smaller;
+}
