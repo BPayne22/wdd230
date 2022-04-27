@@ -40,6 +40,10 @@ ul {
     width: 500px;
 }
 
+li {
+    padding: .3rem;
+}
+
 h2 {
     margin-left: 2.5rem;
     text-shadow: 0 0 20px;
