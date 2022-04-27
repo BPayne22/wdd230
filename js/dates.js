@@ -9,4 +9,5 @@ try {
 }
 
 //This will prompt the date the file was changed. 
-document.getElementById("lastmodified").textContent = alert(document.lastModified);
+const modified = document.lastModified;
+document.getElementById("lastmodified").textContent = modified;
