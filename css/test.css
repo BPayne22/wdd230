@@ -47,5 +47,6 @@ footer {
     box-shadow: 0 0 20px;
     justify-content: center;
     margin: 1rem;
+    display: inline-flex;
 }
 
