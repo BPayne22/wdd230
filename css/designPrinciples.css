@@ -1,26 +1,35 @@
 main {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    font-size: 0.8rem;
+    font-size: 1rem;
 }
 
 section#hicksLaw {
+    border-radius: 8px;
+    border: 1px solid black;
+
     padding: 1rem;
     margin: 1rem;
     background-color: lightgray;
-    text-align: center;
+    
 }
 section#thirds {
+
+    border-radius: 8px;
+    border: 1px solid black; 
     padding: 1rem;
     margin: 1rem;
     background-color: lightgray;
-    text-align: center;
+   
 }
 section#whiteSpace {
+    border-radius: 8px;
+    border: 1px solid black;
+
     padding: 1rem;
     margin: 1rem;
     background-color: lightgray;
-    text-align: center;
+    
 }
 
 footer {
@@ -44,4 +53,21 @@ header {
     box-shadow: 0 0 20px;
     justify-content: center;
     margin: 1rem;  
+}
+ 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    padding: 1rem;
+}
+
+p1 {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+h3 {
+    background-color: gray;
 }
