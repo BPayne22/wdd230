@@ -66,6 +66,10 @@ p1 {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+p2 {
+    font-family: 'Poppins', sans-serif;
 }
 
 h3 {
