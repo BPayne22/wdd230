@@ -4,6 +4,25 @@ main {
     font-size: 0.8rem;
 }
 
+section#hicksLaw {
+    padding: 1rem;
+    margin: 1rem;
+    background-color: gray;
+    text-align: center;
+}
+section#thirds {
+    padding: 1rem;
+    margin: 1rem;
+    background-color: gray;
+    text-align: center;
+}
+section#whiteSpace {
+    padding: 1rem;
+    margin: 1rem;
+    background-color: gray;
+    text-align: center;
+}
+
 footer {
     border: 1px solid #bbb;
     border-radius: 8px;
