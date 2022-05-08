@@ -36,6 +36,9 @@ p1, p2 {
 }
 
 img {
-     padding: 1rem;
+     margin: 1rem;
      display: inline-block;
+     border: 1px solid black;
+     box-shadow: 0px 0px 20px;
+
 }
