@@ -13,6 +13,7 @@ nav {
     font-size: 25px;
     border-radius: 8px;
     box-shadow: 0px 0px 20px;
+    font-family: 'Poppins', sans-serif;
 }
 header {
    display: flex; 
@@ -20,6 +21,7 @@ header {
    margin: 1rem;
     border-radius: 8px;
     box-shadow: 0px 0px 20px;
+    font-family: 'Poppins', sans-serif;
 
 }
 
@@ -35,6 +37,7 @@ h3 {
     background-color: #B2E6D4;
     font-size: 20px;
     padding: 5px;
+    font-family: 'Poppins', sans-serif;
     
 }
 
@@ -75,4 +78,5 @@ footer {
     box-shadow: 0 0 20px;
     justify-content: center;
     margin: 1rem;
+    font-family: 'Poppins', sans-serif;
 }
