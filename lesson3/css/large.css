@@ -2,9 +2,10 @@
     body, header, footer {
         max-width: 1440px;
     }
-	nav a{
-                display: flex;
-                flex-direction: row;
-		font-size: 1.3rem;
-	}
+	nav ul { display: flex;}
+    nav ul li { flex: 1 1 auto;}
+
+    nav a {
+        font-size: 2rem;
+    }
 }

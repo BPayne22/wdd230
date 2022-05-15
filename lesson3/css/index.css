@@ -20,6 +20,19 @@ nav {
     font-size: 25px;
     font-family: 'Poppins', sans-serif;
 }
+
+nav ul{
+    list-style-type: none;
+    overflow: hidden;
+}
+
+nav li a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
 header {
    display: flex; 
    border: 1px solid black;
